@@ -6,7 +6,7 @@ I have good communication skills, flexible mind and strong desire to learn.
 Currently I work as an fiber-network engineer. I'm actively studying web-development. 
 I`ve had experience in **Java Script**, **HTML5**, **CSS3**, **Node.js** web-site development (course laboratory works). 
 I study UDEMY Web-development course **"Web-разработчик"** also involved in **Rolling Scopes** courses.
-## Contacts: 
+## Contacts:
 * Phone: [+380 (096)-049-40-59](380960494059)
 * E-mail [thatsmyname98x@gmail.com](thatsmyname98x@gmail.com)
 ## Languages
