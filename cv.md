@@ -9,17 +9,23 @@ I study UDEMY Web-development course **"Web-разработчик"** also invol
 ## Contacts: 
 * Phone: [+380 (096)-049-40-59](380960494059)
 * E-mail [thatsmyname98x@gmail.com](thatsmyname98x@gmail.com)
+## Languages
+1. Ukrainian (native)
+2. Russian (common use)
+3. English (intermediate)
 ## Education:
 - Lviv Polytechnic National University, Civil building and Environmental engineer. Master's degree
+
 September 2016 - January 2022 | Lviv 
 ## Work experience:
 Design engineer at the consulting company **"Trio-consult"** (2.5 years) (remote-work)
 ## Tech Skills
 1. HTML5
 2. CSS3
-3. GIT
+3. __SCSS__\ __SASS__ \ __Bootstrap 5__ \ __CSS FlexBox__ \ __CSS Grid__
 4. Gulp
-5. JavaScript
-6. Node.js
+5. Bem
+6. JavaScript (Jquery)
+7. Node.js
 ## Soft Skills
-* Teamwork
+1. Teamwork
