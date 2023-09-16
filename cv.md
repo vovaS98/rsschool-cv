@@ -7,7 +7,7 @@ My current focus is on web development, and I have acquired valuable skills in J
 I am actively engaged in honing my expertise through practical coursework and relevant online courses such as 
 "Web-разработчик" on UDEMY and participation in Rolling Scopes courses.
 ## Contacts:
-- Phone: [+380 (096)-049-40-59](380960494059)
+- Phone: [+38 (096)-049-40-59](380960494059)
 - E-mail [thatsmyname98x@gmail.com](thatsmyname98x@gmail.com)
 
 ## Languages
